@@ -26,5 +26,20 @@ The pipeline integrates three state-of-the-art deep learning architectures, dist
 * **Data Manipulation:** Python (NumPy, Pandas, OpenCV)
 * **Domain:** Real-to-Sim, Computer Vision, Academic Research
 
-## ⚙️ Setup & Usage
-*(Buraya projeyi klonlama ve `requirements.txt` kurma adımlarını eklemelisin)*
+## # Core Deep Learning & Vision
+torch>=1.10.0
+torchvision>=0.11.0
+numpy
+opencv-python
+
+# Feature Extraction & Matching Dependencies
+kornia>=0.6.11
+scipy
+h5py
+
+# Utilities
+tqdm>=4.36.0
+
+# Optional / Visualization (Uncomment if needed)
+# matplotlib
+# pycolmap>=3.13.0

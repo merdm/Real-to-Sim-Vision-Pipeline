@@ -39,7 +39,3 @@ h5py
 
 # Utilities
 tqdm>=4.36.0
-
-# Optional / Visualization (Uncomment if needed)
-# matplotlib
-# pycolmap>=3.13.0
